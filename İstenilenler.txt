@@ -1,0 +1,35 @@
+cv Toplama 
+Departmanlar arası Personel değerlendirme
+ Diksiyon,Fiziki görünüm, Araç kullanma, İnsan ilişkileri vb.
+cv içinde 
+tc ,ad ,soyad vb.
+raporlama
+kimlik tespit sistemi kart ,optik veya parmak izi giriş çıkış saatleri için
+
+Raporlamada
+Iknın hobiler duygusal dalgalanmalar,IQ ,EQ, problem çözme vb. olmalı
+sektör ve iş tanımı olmalı
+Alınan personel için kariyer planlaması
+iş tanımları ytapılırken benzer ve ortak bir pozisyonda iş yapma nitelikleri bilinmeli sistem tarafından tutlmalı
+personel değerlendirme
+ Çalışma saatleri, firmaya katkıları, firma için ne kadar değerli olduğu vb.
+ yıllık izin planlama
+ diğer departmanlara da insan gücü sağlayabilmeli
+  Üretim,Finans,Arge vb.
+
+
+İstenilen evraklar
+
+Personel Özlük Bilgileri fromu
+Personel nitelik raporu
+Personel aylık bordro bildirim formu
+Personel görev yeri dağılım listesi
+Şubelerin Personel eksik listesi
+Personel çalışma saati raporu (Şubelerden gelmekte)
+İş başvurusu için yollanan cv bilgileri raporu
+İş başvurusu için yollanan cv bilgileri
+Şirket TMK listesi (Teşkilat - Malzeme -Kadro)
+  Teşkilat=> Şubeler ve benzeri şirket organizasyon listesi
+  Malzeme=> Şirket içirisinde şubelerde olması gereken donanım listesi
+  kadro=> İlgili iş tanımı için gereken personel sayısı listesi
+TMK ya bağlı personel kariyer plan listesi

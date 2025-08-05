@@ -1,0 +1,34 @@
+1)DAL katmaný
+2)BLL Katmaný
+3)UI Katmaný
+
+1)DAL KAtmaný
+
+BaseClassar ve interfaceler oluþturulucak
+Entites ler Oluþturulacak
+Repositoriler oluþturulacak
+Enumlar  oluþturulacak
+SeedData
+Context
+Configurations
+
+2)BLL
+
+DTOS
+Enums
+Services
+  Abstracts
+  Concretes
+
+3)UI Presentation
+MVC
+WWWroots
+Areas
+ DashBoard
+Controllers
+Views
+ Shared
+ Home
+ Partials
+Models(Cart,CartItem)
+programcs te gerekli servisler ve routingler yapýlacak
