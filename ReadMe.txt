@@ -9,6 +9,8 @@ IbaseRepositroy oluþturuldu.
 Context yarým kaldý
 Gerekli Nuget paketleri yüklendi
 Enumlar oluþturuldu
+BaseRepository oluþturuldu
+Personel configuration eklendi
 
 todo:Context e devam edilecek
 

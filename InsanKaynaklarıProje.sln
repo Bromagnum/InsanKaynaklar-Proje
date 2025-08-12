@@ -14,6 +14,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		İstenilenler.txt = İstenilenler.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogicLayer", "BusinessLogicLayer", "{ED58A3F5-C060-440A-B6BE-540838FE4DC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{EABDCFCB-0DEE-4280-B47B-D5B95B5C8686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{6319F183-8DAA-477F-BA11-FD805CD5A9E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,12 +30,17 @@ Global
 		{E95D7A74-3588-40F7-839E-68F1A08F7092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E95D7A74-3588-40F7-839E-68F1A08F7092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E95D7A74-3588-40F7-839E-68F1A08F7092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6319F183-8DAA-477F-BA11-FD805CD5A9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6319F183-8DAA-477F-BA11-FD805CD5A9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6319F183-8DAA-477F-BA11-FD805CD5A9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6319F183-8DAA-477F-BA11-FD805CD5A9E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E95D7A74-3588-40F7-839E-68F1A08F7092} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6319F183-8DAA-477F-BA11-FD805CD5A9E3} = {ED58A3F5-C060-440A-B6BE-540838FE4DC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E398E148-D18F-43D4-8BBA-B6E5E6137D40}

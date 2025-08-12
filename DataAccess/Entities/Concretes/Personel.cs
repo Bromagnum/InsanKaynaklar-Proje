@@ -15,21 +15,23 @@ namespace DAL.Entities.Concretes
 
         public string SoyAd { get; set; }
 
-        public string TCNo { get; set; }
+        public string? TCNo { get; set; }
 
-        public string TelefonNo { get; set; }
-        public DateOnly DogumTarihi { get; set; }
+        public string Email { get; set; }
 
-        public string EgitimDurumu { get; set; }
+        public string? TelefonNo { get; set; }
+        public DateOnly? DogumTarihi { get; set; }
 
-        public string SGKNo { get; set; }
+        public string? EgitimDurumu { get; set; }
 
-        public decimal Maas { get; set; }
+        public string? SGKNo { get; set; }
 
-        public MedeniHal MedeniHal { get; set; }
-        public Askerlik Askerlik { get; set; }
+        public decimal? Maas { get; set; }
 
-        public Cinsiyet Cinsiyet { get; set; }
+        public MedeniHal? MedeniHal { get; set; }
+        public Askerlik? Askerlik { get; set; }
+
+        public Cinsiyet? Cinsiyet { get; set; }
 
     }
 }
